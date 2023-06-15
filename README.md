@@ -7,10 +7,11 @@
 ## Table of contents
 
 1. [Preparation](#preparation)
-2. [Lecturers](#lecturers)
+2. [Faculty](#faculty)
 3. [Timetable](#timetable)
 4. [Slides](#slides)
-5. [Contact](#contact)
+5. [Exercises](#exercises)
+6. [Contact](#contact)
 
 ## Preparation
 
@@ -24,23 +25,27 @@ Course participants will bring their own laptops with recently installed version
 
 If you are new to R and RStudio, we recommend you to follow the 90-minute video tutorial [Introduction to R and RStudio](https://youtu.be/lL0s1coNtRk).
 
-## Lecturers
+## Faculty
 
-Course lectures: [Prof. Dr. Sonja Hartnack](https://www.vetepi.uzh.ch/en/aboutus/staff/shartn.html), Vetsuisse Faculty, Section of Veterinary Epidemiology, University of Zurich, Zurich, Switzerland
+Lecturer: [Prof. Dr. Sonja Hartnack](https://www.vetepi.uzh.ch/en/aboutus/staff/shartn.html), Vetsuisse Faculty, Section of Veterinary Epidemiology, University of Zurich, Zurich, Switzerland
 
 Course coordination: [PD Dr. Christian Althaus](https://www.ispm.unibe.ch/about_us/staff/althaus_christian/index_eng.html), Institute of Social and Preventive Medicine, University of Bern, Bern Switzerland
 
 ## Timetable
 
-Time | Topic | Slides
----- | ----- | ------
-09:00-12:00 | Introduction and analysis to diagnostic test results | 
-12:00-13:00 | Lunch break | 
-13:00-17:00 | No gold standard models, ROC curves, STARD guidelines | 
+Time | Topic
+---- | -----
+09:00-12:00 | Introduction and analysis to diagnostic test results
+12:00-13:00 | Lunch break
+13:00-17:00 | No gold standard models, ROC curves, STARD guidelines
 
 ## Slides
 
-All course slides will be made available [here](https://github.com/ISPMBern/diagnostic-test-evaluation/blob/main/slides).
+The course slides can be downloaded [here](https://github.com/ISPMBern/diagnostic-test-evaluation/blob/main/slides).
+
+## Exercises
+
+The material for the exercises can be found [here](https://github.com/ISPMBern/diagnostic-test-evaluation/blob/main/exercises).
 
 ## Contact
 
