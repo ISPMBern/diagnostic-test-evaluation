@@ -47,6 +47,13 @@ The course slides can be downloaded [here](https://github.com/ISPMBern/diagnosti
 
 The material for the exercises can be found [here](https://github.com/ISPMBern/diagnostic-test-evaluation/blob/main/exercises).
 
+### Literature
+
+1. Bramwell R, West H, Salmon P. [Health professionals' and service users' interpretation of screening test results: experimental study](https://doi.org/10.1136/bmj.38884.663102.AE). BMJ. 2006;333(7562):284.
+2. Sackett DL, Haynes RB. [The architecture of diagnostic research](https://doi.org/10.1136/bmj.324.7336.539). BMJ. 2002;324(7336):539-541.
+3. Gill CJ, Sabin L, Schmid CH. [Why clinicians are natural bayesians](https://doi.org/10.1136/bmj.330.7499.1080). BMJ. 2005;330(7499):1080-1083.
+4. Sarangi LN, Surendra KSNL, Rana SK, et al. [Evaluation of commercial ELISA kits for diagnosis of brucellosis in cattle and buffaloes in different epidemiological scenarios](https://doi.org/10.1016/j.mimet.2022.106449). J Microbiol Methods. 2022;195:106449.
+
 ## Contact
 
 If you have any questions regarding the course, please get in touch with us at <phs-info.ispm@unibe.ch> or <christian.althaus@unibe.ch>.
